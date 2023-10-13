@@ -1,0 +1,7 @@
+
+conda activate sklearn_env
+ISEScan_csv_add_aa_folder_cnn.py --ISEScan_Folder ncbi_202308
+
+conda activate CRISPR_Cas_Finder
+ISEScan_csv_add_aa_folder_cnn2.py ncbi_202308
+
